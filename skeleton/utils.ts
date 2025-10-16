@@ -17,7 +17,7 @@ export const utilsContent: UtilsContent = {
         {
             title: 'Rich Text Editor', 
             description: 'Useful when you need to write down something quick. And it\'s pretty.',
-            image_url: '',
+            image_url: 'https://quickwrite-9co7d9cqm-raul-rodriguezs-projects-0829844f.vercel.app/',
             project_url: 'https://www.test.com',
         }
     ]
