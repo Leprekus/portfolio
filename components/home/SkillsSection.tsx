@@ -11,7 +11,7 @@ export function SkillsSection({ skills }: SkillsSectionProps) {
       <div className="grid gap-6 md:grid-cols-3">
         {skills.map((group) => (
           <div key={group.title} className="flex flex-col gap-3">
-            <p className="text-xs uppercase tracking-[0.3em] text-black">
+            <p className="text-xs uppercase md:tracking-widest text-black">
               {group.title}
             </p>
             <ul className="space-y-2 text-sm text-black">
